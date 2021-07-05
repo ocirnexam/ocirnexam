@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ocirnexam</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate developer from Germany</h3>
 
 - 🔭 I’m currently working on [Manag - A generic merchandise management system](https://github.com/ocirnexam/Manag)
 
