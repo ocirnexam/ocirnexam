@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ocirnexam</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [Manag - A generic merchandise management system](https://github.com/ocirnexam/Manag)
+- 🔭 I’m currently working on [quickman - A generic merchandise management system](https://github.com/ocirnexam/quickman)
 
 - 🌱 I’m currently learning **C++**
 
