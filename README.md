@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Manag - A generic merchandise management system](https://github.com/ocirnexam/Manag)
 
-- 🌱 I’m currently learning **Embedded C**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/ocirnexam](https://www.github.com/ocirnexam)
-
-- 💬 Ask me about **java, c#, c, python, html/css, blazor**
+- 💬 Ask me about **java, c#, c, c++, python, html/css, blazor**
 
 - 📫 How to reach me **kontakt.maxmueller@outlook.com**
 
