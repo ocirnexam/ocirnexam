@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm ocirnexam</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [quickman - A generic merchandise management system](https://github.com/ocirnexam/quickman)
+- 🔭 I’m currently working on [mexam-bot](https://github.com/ocirnexam/mexam-bot)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and Python**
 
-- 💬 Ask me about **java, c#, c, c++, python, html/css, blazor**
+- 💬 Ask me about **java, javascript, c#, c, c++, Python, html/css, blazor**
 
 - 📫 How to reach me **kontakt.maxmueller@outlook.com**
-
-- ⚡ Fun fact **I play guitar and love Calisthenics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
