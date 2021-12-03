@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++ and Python**
 
-- 💬 Ask me about **java, javascript, c#, c, c++, Python, html/css, blazor**
-
 - 📫 How to reach me **kontakt.maxmueller@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
